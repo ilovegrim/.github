@@ -18,7 +18,7 @@ GRIMLABS is a Shopify development startup, ran by [@grim](https://github.com/vys
 
 ## Projects
 
-### MNML Theme
+### [MNML Shopify Theme](https://github.com/ilovegrim/MNML)
 - **Release Date**: End of July
 - **Expected Price**: $20
 - **Description**: A minimalist Shopify theme designed to get stuff done without any bloat. Clean, efficient, and visually appealing.
